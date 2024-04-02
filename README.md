@@ -5,3 +5,9 @@
 Contains TAB notation created by myself.
 
 Download as you wish.
+
+The following YouTube channel has a video of a performance using the TAB of this repository.
+
+Check it out if you like!
+
+https://www.youtube.com/channel/UCfFyR3WaBbiyVvmGQK-zuRg
