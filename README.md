@@ -2,12 +2,12 @@
 
 # Bass Guitar TAB notations
 
-Contains TAB notation created by myself.
+This Repository Contains TAB notation created by myself.
 
-Download as you wish.
+Download as you wish!
 
 The following YouTube channel has a video of a performance using the TAB of this repository.
 
 Check it out if you like!
 
-https://www.youtube.com/channel/UCfFyR3WaBbiyVvmGQK-zuRg
+https://www.youtube.com/@yajima_bass_guitar
