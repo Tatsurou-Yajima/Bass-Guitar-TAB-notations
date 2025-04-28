@@ -2,7 +2,7 @@
 
 # Bass Guitar TAB notations
 
-This Repository Contains TAB notation created by myself.
+This repository contains TABs created by myself.
 
 Download as you wish!
 
